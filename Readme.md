@@ -16,5 +16,12 @@
 	* 我自己的範例:
 </br><img src="BER.svg"></br>
 
-	
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/Wilhelmine21">Home</a></td>
+    <td><a href="https://github.com/Wilhelmine21/LaTeX-tikz#latex">TOP</a></td>
+    <td><a href="https://github.com/Wilhelmine21/LaTeX-Beamer-PPT#how-to-create-a-ppt-using-latex">LaTeX-Beamer-PPT</a></td>
+  </tr>
+</table>
+
 	
